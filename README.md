@@ -10,3 +10,6 @@ https://drive.google.com/file/d/1gX7wAREAjG1iERRiYkZ6MT4CJTMUvAPw/view?usp=shari
 
 ## Project Documentation
 The complete game design document can be found in the PDF file uploaded above.
+
+## Note
+Due to the 100-file limitation on GitHub Web upload, only the core C# source code (Scripts) and project documentation are hosted in this repository for code review.
